@@ -1,0 +1,37 @@
+/*
+Theme Name: Annamaria Garden Child Theme
+Theme URI: https://afterimagedesigns.com/wp-bootstrap-starter/
+Author: Connor Shaw (fluxdesiqn)
+Author URI: https://afterimagedesigns.com/
+Description:  Child theme of WP Bootstrap Starter made by Connor Shaw (fluxdesiqn) for the Annamaria Garden's website.
+Template: wp-bootstrap-starter
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: wp-bootstrap-starter
+Tags: blog, custom-menu, featured-images, threaded-comments, translation-ready, right-sidebar, custom-background, e-commerce, theme-options, sticky-post, full-width-template
+*/
+
+/*
+- Colour Scheme -
+Blue: #69b5fd
+Light Blue: #94cbff
+Light Orange: #fec6bd
+Orange: #ffa394
+Dark Orange: #fd6d55
+White: #fff
+Black: #222
+*/
+
+header {
+    background-color: #fff 
+}
+
+.navbar-social {
+    display: flex;
+}
+
+.navbar-social img {
+    height: 35px;
+    width: 35px;
+}
